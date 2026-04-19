@@ -5,13 +5,11 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Matheus Possemato Lopes
+- Matricula: 923502
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
-
-
+![alt text]({822A8926-2B33-4B3D-995F-B78014D978E3}.png)
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
